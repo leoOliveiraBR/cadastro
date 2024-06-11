@@ -1,27 +1,36 @@
-# Projeto cadastro
-
-Este repositório contém um projeto simples utilizando Bootstrap para criar uma página de apresentação com temas dinâmicos e navegação básica. O objetivo é demonstrar a integração de Bootstrap com uma estrutura básica de HTML para ensinar conceitos de acesso a banco de dados utilizando PHP como linguagem de back-end.
-
-## Estrutura do Projeto
-
-### Arquivos Principais
-- **index.php**: Página principal do projeto.
-- **login.php**: Página de login.
-- **cad.php**: página de cadastro.
-- **cover.css**: Estilos personalizados para o template.
+# 🚀 sejam todos bem vindo ao meu repositorio 
 
 
-### Diretórios
-- **assets/**: Contém arquivos estáticos como imagens, scripts e estilos.
-- **js/**: Scripts JavaScript.
-- **dist/css/**: Arquivos CSS distribuídos.
-- **dist/js/**: Arquivos JavaScript distribuídos.
+## indice
+   - [Formulário de login e cadastro](#formul%C3%A1rio-de-c%C3%A1lculo-de-sal%C3%A1rio)  
+   - [Descrição](#descris%C3%A3o)  
+   - [Introdução](#introdu%C3%A7%C3%A3o)  
+   - [Funcionalidades](#funcionalidades)  
+   - [Tecnologias Utilizadas](#tecnologias-utilizadas)  
+   - [Fontes Consultadas](#fontes-consultadas)  
+   - [Autores](#autores)  
 
-## Dependências
+# 💰Formulário de login e cadastro
+# ✅Descrisão 
+# 📃 Introdução   
+   
+## 🔧 Funcionalidades
+   °Permite que o usurio visite meu perfil no github.   
+   °faz login e cadastro.   
+   °SubMenus que alternam as páginas uma da outra.
 
-Este projeto utiliza o Bootstrap 5.3.3. As dependências externas são carregadas via CDN.
+## as linguagens utilizadas servem para:
 
-### CSS
+   index.php: Página principal do projeto.
+   login.php: Página de login.
+   cad.php: página de cadastro.
 
-```html
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous>
+## 📌 Tecnologias Utilizadas
+   °HTML5    
+   °CCS3   
+   °PHP8.1   
+## 🔎 Fontes consultadas
+   [Bootstrap](https://getbootstrap.com/)  
+   
+## ✒️ Autores
+[Leonardo De Oliveira](https://github.com/leoOliveiraBR)  
