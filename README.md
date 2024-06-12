@@ -11,7 +11,7 @@
    - [Autores](#autores)  
 
 # 💰Formulário de login e cadastro
-![image info](img/image-capa.png)
+![image info](iniocio.png)
 
 # ✅Descrisão 
 esse código foi feito com bootstrap5 usando o modelo cover modifiquei ele para virar uma tela de cadastro
@@ -19,9 +19,9 @@ esse código foi feito com bootstrap5 usando o modelo cover modifiquei ele para 
 # 📃 Introdução
 nesse formulario de cadastro tem 2 opções:
 cadastrar-se como novo usuario
-![image info](img/image-capa.png)
+![image info](cadastar-se)
 login de antigo usuario
-![image info](img/image-capa.png)
+![image info](login2)
    
 ## 🔧 Funcionalidades
    °Permite que o usurio visite meu perfil no github.   
