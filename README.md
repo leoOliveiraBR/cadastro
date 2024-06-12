@@ -32,9 +32,9 @@ login de antigo usuario
 
 ## as linguagens utilizadas servem para:
 
-   index.php: Página principal do projeto.
-   login.php: Página de login.
-   cad.php: página de cadastro.
+   index.php: Página principal do projeto.   
+   login.php: Página de login.   
+   cad.php: página de cadastro.   
 
 ## 📌 Tecnologias Utilizadas
    °HTML5    
