@@ -19,9 +19,9 @@ esse código foi feito com bootstrap5 usando o modelo cover modifiquei ele para 
 # 📃 Introdução
 nesse formulario de cadastro tem 2 opções:
 cadastrar-se como novo usuario
-![image info](cadastar-se)
+![image info](cadastar-se.png)
 login de antigo usuario
-![image info](login2)
+![image info](login2.png)
    
 ## 🔧 Funcionalidades
    °Permite que o usurio visite meu perfil no github.   
