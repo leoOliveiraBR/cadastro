@@ -2,7 +2,7 @@
 
 
 ## indice
-   - [Formulário de login e cadastro](#formul%C3%A1rio-de-c%C3%A1lculo-de-sal%C3%A1rio)  
+   - [Formulário de login e cadastro](#formul%C3%A1rio-de-login-e-cadastro)  
    - [Descrição](#descris%C3%A3o)  
    - [Introdução](#introdu%C3%A7%C3%A3o)  
    - [Funcionalidades](#funcionalidades)  
@@ -11,12 +11,21 @@
    - [Autores](#autores)  
 
 # 💰Formulário de login e cadastro
+![image info](img/image-capa.png)
+
 # ✅Descrisão 
-# 📃 Introdução   
+esse código foi feito com bootstrap5 usando o modelo cover modifiquei ele para virar uma tela de cadastro
+
+# 📃 Introdução
+nesse formulario de cadastro tem 2 opções:
+cadastrar-se como novo usuario
+![image info](img/image-capa.png)
+login de antigo usuario
+![image info](img/image-capa.png)
    
 ## 🔧 Funcionalidades
    °Permite que o usurio visite meu perfil no github.   
-   °faz login e cadastro.   
+   °faz login ou cadastro.   
    °SubMenus que alternam as páginas uma da outra.
 
 ## as linguagens utilizadas servem para:
